@@ -12,4 +12,6 @@ print(sheet.max_column)
 
 #another way to print values
 
-print(sheet['A5'].value)
+print(sheet['A3'].value)
+print("This is new line")
+
